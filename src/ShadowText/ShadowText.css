@@ -4,11 +4,13 @@ body {
   height: 100vh;
   margin: 0;
 }
+
 body {
   font-family: sans-serif;
   color: #fff;
   background: #1edad0;
 }
+
 .text-3d {
   font-size: 6rem;
   position: absolute;
@@ -25,6 +27,7 @@ body {
     -3px -4px 2px #fff, -4px -4px 2px #fff, -3px -5px 1px #fff,
     -4px -5px 1px #fff, -5px -5px 1px #fff;
 }
+
 .text-3d:before {
   content: "React 3D Text";
   position: absolute;
