@@ -1,5 +1,7 @@
 {
-  "name": "shadow-text",
+  "name": "ShadowText",
+  "Author": "Jesse McKinney",
+  "homepage": "https://j-mckinney.github.io/ShadowText/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -31,5 +33,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
   }
 }
